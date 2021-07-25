@@ -36,7 +36,7 @@ def main():
 	print(" \1b[1;92m    \Main menu")
 	print("")
 	os.system('echo -e "-----------------------------------------------"| lolcat')
-	print(" \33[1;92m     [1] START CLONING\")
+	print(" \33[1;92m     [1] START CLONING\" )
 	os.system('echo -e "-----------------------------------------------"| lolcat')
 	print("")
 	os.system('xdg-open https://www.facebook.com/rishu.007')
